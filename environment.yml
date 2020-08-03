@@ -1,0 +1,6 @@
+---
+
+name: dlwpbc
+dependencies:
+  - pip
+  - python=3.8
