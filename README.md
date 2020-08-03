@@ -12,7 +12,6 @@ Notes and code in the course of studying the book Deep Learning with Python by J
 1. .
 
 ```python
-
 ```
 
 ## Output
